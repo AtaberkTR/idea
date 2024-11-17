@@ -1,0 +1,2 @@
+# idea
+all my ideas
